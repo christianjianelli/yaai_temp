@@ -19,7 +19,7 @@
    </I18N_LANGS>
    <DD04_TEXTS>
     <item>
-     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDLANGUAGE>E</DDLANGUAGE>
      <DDTEXT>ABAP AI tools - Chat messages sequential number</DDTEXT>
      <REPTEXT>Seq.No</REPTEXT>
      <SCRTEXT_S>Seq.No</SCRTEXT_S>

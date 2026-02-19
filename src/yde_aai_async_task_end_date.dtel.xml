@@ -19,7 +19,7 @@
    </I18N_LANGS>
    <DD04_TEXTS>
     <item>
-     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDLANGUAGE>E</DDLANGUAGE>
      <DDTEXT>ABAP AI tools - Async Task Start Date</DDTEXT>
      <REPTEXT>Async Task End Date</REPTEXT>
      <SCRTEXT_S>End Date</SCRTEXT_S>

@@ -18,7 +18,7 @@
    </I18N_LANGS>
    <DD04_TEXTS>
     <item>
-     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDLANGUAGE>E</DDLANGUAGE>
      <DDTEXT>ABAP AI tools - LLM Model</DDTEXT>
      <REPTEXT>Reasoning Effort</REPTEXT>
      <SCRTEXT_S>Reason.Eff</SCRTEXT_S>
